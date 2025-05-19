@@ -2,6 +2,8 @@
 
 ### Dataset Details
 
+Coded through a data science project at UofT. My contribution extends to the Jupyter Notebooks for EDA and Model Training. Front end (flask, web) is done by my good friend and colleague Frank B.!
+
 This project investigates how factors such as parental background, test preparation, and other variables influence students' performance on math exams.
 
 The dataset includes eight features:
